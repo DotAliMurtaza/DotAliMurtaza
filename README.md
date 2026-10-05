@@ -1,203 +1,475 @@
-# 👋 Hi, I'm Ali Murtaza
+<div align="center">
 
-### 🚀 Full-Stack Developer | Next.js • React • TypeScript • Tailwind CSS
+# ✦ ALI MURTAZA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Next.js+Developer;React+Developer;TypeScript+Developer;Modern+UI%2FUX+Builder;AI+%26+Web+Application+Developer" alt="Typing SVG" />
+### `Full-Stack Developer`
 
-<p align="center">
-  <a href="https://github.com/DotAliMurtaza">
-    <img src="https://img.shields.io/github/followers/DotAliMurtaza?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/DotAliMurtaza?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-10-blue?style=for-the-badge" />
-  </a>
-  <a href="https://alimurtazacv.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Next.js+Developer;React+Developer;TypeScript+Developer;Modern+Web+Developer;UI%2FUX+Developer;AI+%26+Web+Application+Developer" alt="Typing Animation" />
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=ALI%20MURTAZA&fontSize=52&fontAlignY=38&desc=BUILDING%20MODERN%20DIGITAL%20EXPERIENCES&descAlignY=62&animation=fadeIn&fontColor=ffffff&color=0:050505,50:111827,100:1e3a8a" width="100%" />
 
-I'm **Ali Murtaza**, a passionate Full-Stack Developer focused on creating modern, responsive and visually engaging web applications.
+<br/>
 
-I enjoy transforming ideas into real-world digital products with clean UI, smooth interactions and scalable code.
+<a href="https://github.com/DotAliMurtaza">
+<img src="https://img.shields.io/badge/GitHub-DotAliMurtaza-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://alimurtazacv.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=DotAliMurtaza&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
 
-* 🔭 Building modern web applications
-* ⚡ Specialized in **Next.js, React, TypeScript & Tailwind CSS**
-* 🎨 Interested in modern UI/UX and interactive experiences
-* 📱 Mobile-first and responsive development
-* 🤖 Exploring AI-powered web applications
-* 🎮 Building interactive games and web experiences
-* 🚀 Deploying projects with modern web technologies
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧊 `01` — Developer Identity
 
-### 💻 Frontend
+<table>
+<tr>
+<td width="55%">
 
-<p>
+### 👋 Hi, I'm Ali Murtaza
+
+I'm a **Full-Stack Developer** focused on building modern, responsive and visually engaging digital experiences.
+
+My development style combines:
+
+* ⚡ Modern web development
+* 🎨 Premium UI/UX
+* 🧩 Interactive components
+* 📱 Responsive experiences
+* 🚀 Modern application architecture
+* 🎮 Interactive web experiences
+* 🤖 AI-powered web applications
+
+I enjoy turning ideas into polished digital products with a strong focus on **design, usability, responsiveness and interaction**.
+
+</td>
+
+<td width="45%">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=260&text=CODE%20%E2%86%92%20DESIGN%20%E2%86%92%20ANIMATE%20%E2%86%92%20DEPLOY&fontSize=19&fontColor=ffffff&color=0:020617,50:111827,100:1d4ed8&animation=fadeIn" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚡ `02` — What I Build
+
+<div align="center">
+
+|   🌐 Web Applications  |      ⚡ Next.js Apps      |      🎨 UI/UX      |
+| :--------------------: | :----------------------: | :----------------: |
+| Modern web experiences | Fast modern applications | Premium interfaces |
+
+|        🛒 E-Commerce        |  🎮 Interactive Experiences  |     🤖 AI Applications     |
+| :-------------------------: | :--------------------------: | :------------------------: |
+| Modern shopping experiences | Games & interactive products | AI-powered web experiences |
+
+</div>
+
+---
+
+# 🧬 `03` — Technology Universe
+
+<div align="center">
+
+### Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
 
-### ⚙️ Backend & Development
+### Development & Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,python,git,github,npm" />
-</p>
 
-### 🎨 Design & UI
+### Design
 
-<p>
 <img src="https://skillicons.dev/icons?i=figma" />
-</p>
 
-**Focus:** Modern UI • Responsive Design • Glassmorphism • Animations • Interactive Components • Premium User Experiences
+</div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 🎮 Interactive Games
+`HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `Next.js` • `Tailwind CSS`
+`Node.js` • `Python` • `Git` • `GitHub` • `npm` • `Figma`
 
-| Project             | Description                            | Technology |
-| ------------------- | -------------------------------------- | ---------- |
-| 🚗 **Car Game**     | Interactive racing game experience     | TypeScript |
-| 🎲 **Ludo King**    | Multiplayer-style Ludo game experience | TypeScript |
-| 🐱 **Tom Gold Run** | Endless runner game experience         | TypeScript |
-| ♟️ **Chess Game**   | Interactive chess experience           | TypeScript |
-
-### 🛍️ E-Commerce Projects
-
-| Project              | Description                                | Technology |
-| -------------------- | ------------------------------------------ | ---------- |
-| 👟 **Shoes Store**   | Modern responsive shoes e-commerce website | TypeScript |
-| 👓 **Uniq Glasses**  | Modern glasses e-commerce experience       | TypeScript |
-| 🌸 **Ali Fragrance** | Premium fragrance e-commerce website       | TypeScript |
+</div>
 
 ---
 
-## 🌐 My Portfolio
+# 🪄 `04` — Creative Development
 
-### ✨ Visit My Portfolio
+<div align="center">
 
-<p align="center">
-  <a href="https://alimurtazacv.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=750&lines=Modern+UI;Responsive+Design;Glassmorphism;Smooth+Animations;Interactive+Components;Premium+User+Experiences" />
 
-**Portfolio:**
-https://alimurtazacv.vercel.app/
+</div>
 
----
+<br/>
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DotAliMurtaza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DotAliMurtaza&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+> **I don't just write code.**
+>
+> I focus on creating digital experiences where **code, design, interaction and usability** work together.
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 `05` — Developer Dashboard
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DotAliMurtaza&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DotAliMurtaza&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=58A6FF&icon_color=8B5CF6&text_color=9CA3AF&rank_icon=github" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DotAliMurtaza&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=58A6FF&text_color=9CA3AF" width="42%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DotAliMurtaza&theme=transparent&hide_border=true&ring=58A6FF&fire=8B5CF6&currStreakLabel=58A6FF&sideLabels=9CA3AF&dates=6B7280" width="70%" />
+
+</div>
 
 ---
 
-## 🐍 Contribution Activity
+# 📈 `06` — GitHub Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DotAliMurtaza&bg_color=00000000&color=58A6FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
 
 ---
 
-## 🎨 Creative Developer
+# 🐍 `07` — Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+> **Note:** The snake animation is GitHub-compatible SVG content. For a fully username-specific snake, generate the SVG through a GitHub Action in the profile repository.
+
+---
+
+# 🚀 `08` — Featured Projects
+
+## 🎮 Interactive Games
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚗 Car Game
+
+Interactive browser-based car game experience.
+
+**Focus**
+
+`TypeScript` • `Game UI` • `Interaction`
+
+</td>
+
+<td width="50%">
+
+### 🎲 Ludo King
+
+Interactive Ludo-style game experience.
+
+**Focus**
+
+`TypeScript` • `Game Logic` • `UI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🐱 Tom Gold Run
+
+Endless-runner inspired interactive game experience.
+
+**Focus**
+
+`TypeScript` • `Animation` • `Game UI`
+
+</td>
+
+<td width="50%">
+
+### ♟️ Upgrade Chess Game
+
+Interactive chess experience with a modern interface.
+
+**Focus**
+
+`TypeScript` • `Game Logic` • `Interactive UI`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛍️ E-Commerce Experiences
+
+<table>
+<tr>
+<td width="33%">
+
+### 👟 Shoes
+
+Modern responsive shoes e-commerce experience.
+
+`TypeScript`
+
+</td>
+
+<td width="33%">
+
+### 👓 Uniq Glasses
+
+Modern glasses e-commerce experience.
+
+`TypeScript`
+
+</td>
+
+<td width="33%">
+
+### 🌸 Ali Fragrance
+
+Premium fragrance e-commerce experience.
+
+`TypeScript`
+
+</td>
+</tr>
+</table>
+
+> **Project links are intentionally not fabricated.**
+> Use the actual repository URLs from the repository owner/account after correcting the current profile's mismatched project links.
+
+---
+
+# 🎨 `09` — Project Design Philosophy
+
+<div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║        CODE  →  DESIGN  →  ANIMATE  →  DEPLOY           ║
-║                                                          ║
-║        Building Digital Experiences That Matter          ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│       IDEA                                                   │
+│        ↓                                                     │
+│     ARCHITECTURE                                             │
+│        ↓                                                     │
+│       CODE                                                   │
+│        ↓                                                     │
+│      DESIGN                                                  │
+│        ↓                                                     │
+│    INTERACTION                                               │
+│        ↓                                                     │
+│     ANIMATION                                                │
+│        ↓                                                     │
+│      DEPLOY                                                  │
+│                                                              │
+│        ✦ DIGITAL EXPERIENCE ✦                               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-I don't just write code.
-
-I focus on creating **beautiful, useful and interactive digital experiences.**
+</div>
 
 ---
 
-## 💡 What I Love Building
+# 🎯 `10` — Current Technology Focus
+
+<div align="center">
+
+### ⚡ Next.js
+
+`████████████████████`
+
+### ⚛️ React
+
+`███████████████████`
+
+### 🔷 TypeScript
+
+`██████████████████`
+
+### 🎨 Tailwind CSS
+
+`████████████████████`
+
+### 🧩 UI/UX
+
+`█████████████████`
+
+### 🤖 AI & Web Applications
+
+`████████████████`
+
+</div>
+
+> These bars represent **technology focus**, not measured skill percentages.
+
+---
+
+# 🧊 `11` — Developer Mindset
+
+<div align="center">
+
+### `BUILD`
+
+Create useful products.
+
+### `DESIGN`
+
+Make them beautiful.
+
+### `ANIMATE`
+
+Make interactions feel alive.
+
+### `OPTIMIZE`
+
+Make experiences fast and responsive.
+
+### `DEPLOY`
+
+Turn ideas into real products.
+
+</div>
+
+---
+
+# 🌐 `12` — My Portfolio
+
+<div align="center">
+
+<a href="https://alimurtazacv.vercel.app/">
+
+<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</a>
+
+<br/><br/>
+
+**Modern Developer Portfolio**
+
+<br/>
+
+<a href="https://alimurtazacv.vercel.app/">
+`alimurtazacv.vercel.app`
+</a>
+
+</div>
+
+---
+
+# 🏗️ `13` — What I'm Interested In Building
+
+<div align="center">
 
 ```text
 🌐 Modern Web Applications
-⚡ Next.js Applications
-⚛️ React Interfaces
+        │
+        ├── ⚡ Next.js
+        ├── ⚛️ React
+        ├── 🔷 TypeScript
+        └── 🎨 Tailwind CSS
+
 🎨 Premium UI/UX
-📱 Responsive Mobile Experiences
-🎮 Interactive Web Games
-🛒 E-Commerce Websites
-🤖 AI-Powered Applications
-✨ Animated & Interactive Interfaces
+        │
+        ├── Glassmorphism
+        ├── Responsive Design
+        ├── Interactive Components
+        └── Smooth Visual Experiences
+
+🎮 Interactive Experiences
+        │
+        ├── Browser Games
+        ├── Game Interfaces
+        └── Animated Experiences
+
+🛒 E-Commerce
+        │
+        ├── Product Experiences
+        ├── Responsive Stores
+        └── Modern Shopping UI
+
+🤖 AI & Web Applications
+        │
+        └── AI-powered digital experiences
 ```
 
----
-
-## 🎯 Current Focus
-
-```text
-Next.js        ████████████████████░ 95%
-React          ███████████████████░░ 90%
-TypeScript     ██████████████████░░░ 85%
-Tailwind CSS   ████████████████████░ 95%
-UI/UX          █████████████████░░░░ 80%
-AI Integration ███████████████░░░░░░ 75%
-```
+</div>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 `14` — GitHub Snapshot
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DotAliMurtaza&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/DotAliMurtaza?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/github/stars/DotAliMurtaza?style=for-the-badge&label=STARS&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/github/repos/DotAliMurtaza?style=for-the-badge&label=PUBLIC%20REPOSITORIES&logo=github&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Dynamic GitHub data • Real repository activity • Live statistics**
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 `15` — Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/DotAliMurtaza">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-DotAliMurtaza-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://alimurtazacv.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<h3 align="center">
-✨ Thanks for visiting my profile! ✨
-</h3>
+<div align="center">
 
-<p align="center">
-<em>Let's build something amazing together 🚀</em>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together+%F0%9F%9A%80;Code+%E2%80%A2+Design+%E2%80%A2+Animation+%E2%80%A2+Innovation" />
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<br/><br/>
+
+### ✦ ALI MURTAZA
+
+`Full-Stack Developer`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:1e3a8a,50:111827,100:050505" width="100%"/>
+
+</div>
