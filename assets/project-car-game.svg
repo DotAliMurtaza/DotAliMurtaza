@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 232" width="440" height="232" role="img" aria-label="Car Game: Interactive browser-based car game experience." font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif">
+<title>Car Game</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#111B34"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".10"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".02"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".35"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".08"/><stop offset="1" stop-color="#22D3EE" stop-opacity=".55"/></linearGradient>
+<linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity=".35"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="28"/></filter>
+</defs>
+<rect x="1" y="1" width="438" height="230" rx="22" fill="url(#bg)"/>
+<clipPath id="clip"><rect x="1" y="1" width="438" height="230" rx="22"/></clipPath>
+<g clip-path="url(#clip)"><circle cx="390" cy="20" r="76" fill="#22D3EE" opacity=".30" filter="url(#blur)"><animate attributeName="opacity" values=".22;.40;.22" dur="7s" repeatCount="indefinite"/></circle></g>
+<rect x="1" y="1" width="438" height="230" rx="22" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.5"/>
+<path d="M30 2h380" stroke="#fff" stroke-opacity=".35" stroke-linecap="round"/>
+<circle cx="376" cy="58" r="30" stroke="#22D3EE" stroke-opacity=".28" fill="none"/><circle cx="376" cy="58" r="18" stroke="#22D3EE" stroke-opacity=".28" fill="none"/>
+<g transform="translate(28,24)"><rect width="60" height="60" rx="16.8" fill="url(#tile)"/><rect x="1" y="1" width="58" height="30.0" rx="15.600000000000001" fill="url(#shine)" opacity=".5"/><rect width="60" height="60" rx="16.8" fill="none" stroke="#fff" stroke-opacity=".35"/><g transform="translate(13.2,13.2) scale(1.4000000000000001)" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="11" rx="5"/><path d="M7 10v5M4.5 12.5h5"/><circle cx="15" cy="11.5" r=".8"/><circle cx="18" cy="13.5" r=".8"/></g></g>
+<text x="106" y="50" font-size="15" fill="#94A3B8">Interactive experience</text>
+<text x="106" y="82" font-size="26" font-weight="700" fill="#F8FAFC">Car Game</text>
+<text x="28" y="124" font-size="17" fill="#CBD5E1">Interactive browser-based car game</text><text x="28" y="150" font-size="17" fill="#CBD5E1">experience.</text>
+<rect x="28" y="168" width="112" height="28" rx="14" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".5"/><text x="84" y="187" font-size="14" text-anchor="middle" fill="#E2E8F0">TypeScript</text><rect x="150.0" y="168" width="60" height="28" rx="14" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".5"/><text x="180" y="187" font-size="14" text-anchor="middle" fill="#E2E8F0">Vite</text><rect x="220.4" y="168" width="78" height="28" rx="14" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".5"/><text x="259" y="187" font-size="14" text-anchor="middle" fill="#E2E8F0">Vercel</text>
+<text x="412" y="214" font-size="13" text-anchor="end" fill="#64748B" font-family="'SF Mono','Fira Code',Consolas,Menlo,monospace">DotAliMurtaza/car-game</text>
+</svg>

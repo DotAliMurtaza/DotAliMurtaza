@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" width="300" height="64" role="img" aria-label="Portfolio" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif">
+<title>Portfolio</title><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#111B34"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".10"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".02"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".35"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".08"/><stop offset="1" stop-color="#38BDF8" stop-opacity=".55"/></linearGradient>
+<linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#38BDF8" stop-opacity=".35"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="28"/></filter>
+</defs>
+<clipPath id="c"><rect x="1" y="1" width="298" height="62" rx="31"/></clipPath>
+<rect x="1" y="1" width="298" height="62" rx="31" fill="url(#bg)"/>
+<g clip-path="url(#c)"><circle cx="40" cy="32" r="40" fill="#38BDF8" opacity=".35" filter="url(#blur)"/></g>
+<rect x="1" y="1" width="298" height="62" rx="31" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.5"/>
+<path d="M32 2h236" stroke="#fff" stroke-opacity=".35" stroke-linecap="round"/>
+<g transform="translate(12,12)"><rect width="40" height="40" rx="20" fill="url(#tile)"/><rect x="1" y="1" width="38" height="19" rx="9.5" fill="url(#shine)" opacity=".5"/><g transform="translate(8,8) scale(1)" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><ellipse cx="12" cy="12" rx="4" ry="9"/><path d="M3 12h18"/></g></g>
+<text x="66" y="29" font-size="19" font-weight="700" fill="#F8FAFC">Portfolio</text>
+<text x="66" y="47" font-size="13" fill="#94A3B8">alimurtazacv.vercel.app</text>
+</svg>

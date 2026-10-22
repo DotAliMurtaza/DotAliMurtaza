@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 130" width="440" height="130" role="img" aria-label="DEPLOY: Turn ideas into real products." font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif">
+<title>DEPLOY</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#111B34"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".10"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".02"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".35"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".08"/><stop offset="1" stop-color="#E2E8F0" stop-opacity=".55"/></linearGradient>
+<linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E2E8F0"/><stop offset="1" stop-color="#E2E8F0" stop-opacity=".35"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="28"/></filter>
+</defs>
+<rect x="1" y="1" width="438" height="128" rx="22" fill="url(#bg)"/>
+<clipPath id="clip"><rect x="1" y="1" width="438" height="128" rx="22"/></clipPath>
+<g clip-path="url(#clip)"><circle cx="390" cy="10" r="64" fill="#E2E8F0" opacity=".28" filter="url(#blur)"/></g>
+<rect x="1" y="1" width="438" height="128" rx="22" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.5"/>
+<path d="M30 2h380" stroke="#fff" stroke-opacity=".35" stroke-linecap="round"/>
+<circle cx="352" cy="34" r="2.4" fill="#E2E8F0" fill-opacity=".35"/><circle cx="352" cy="50" r="2.4" fill="#E2E8F0" fill-opacity=".35"/><circle cx="352" cy="82" r="2.4" fill="#E2E8F0" fill-opacity=".35"/><circle cx="376" cy="34" r="2.4" fill="#E2E8F0" fill-opacity=".35"/><circle cx="376" cy="50" r="2.4" fill="#E2E8F0" fill-opacity=".35"/><circle cx="376" cy="82" r="2.4" fill="#E2E8F0" fill-opacity=".35"/><circle cx="400" cy="34" r="2.4" fill="#E2E8F0" fill-opacity=".35"/><circle cx="400" cy="50" r="2.4" fill="#E2E8F0" fill-opacity=".35"/><circle cx="400" cy="82" r="2.4" fill="#E2E8F0" fill-opacity=".35"/>
+<g transform="translate(28,31)"><rect width="68" height="68" rx="19.040000000000003" fill="url(#tile)"/><rect x="1" y="1" width="66" height="34.0" rx="17.68" fill="url(#shine)" opacity=".5"/><rect width="68" height="68" rx="19.040000000000003" fill="none" stroke="#fff" stroke-opacity=".35"/><g transform="translate(14.96,14.96) scale(1.5866666666666667)" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7M5 21h14"/></g></g>
+<text x="120" y="62" font-size="26" font-weight="700" letter-spacing="3" fill="#F8FAFC">DEPLOY</text>
+<text x="120" y="92" font-size="17" fill="#94A3B8">Turn ideas into real products.</text>
+</svg>
